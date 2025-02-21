@@ -1,4 +1,4 @@
 # Docker
-Simple Python Web Application using Flash and Waitress\
-Dockerfile containerizes the app using python:3.11
+Simple Google GenAI Python Web Application using Flask, Waitress and google.genai\
+Dockerfile containerizes the app using python:3.12
 
